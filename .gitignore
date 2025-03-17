@@ -1,0 +1,12 @@
+# Dune artifacts
+_build/
+dune.lock
+
+# Local OPAM switch
+_opam/
+
+# VSCode user configuration
+.vscode/
+
+# Files that people sometimes accidentally include in their PRs
+*:OECustomProperty
